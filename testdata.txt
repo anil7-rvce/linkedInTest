@@ -1,0 +1,10 @@
+LinkedIn Authentication Keys
+
+Client ID:	81na1lyzoskrhe
+ 
+Client Secret:	ne2eXfF0pBkZqf31
+
+OAuth 2.0
+Authorized Redirect URLs:
+
+http://localhost/demo.php
